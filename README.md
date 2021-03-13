@@ -1,1 +1,1 @@
-# classifydiabetes
+Using a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), I investigate the case of diabetes mellitus amongst Pima Indian women. Specifically to assess whether there is scope to successfully employ Machine Learning to predict diabetes mellitus. 
